@@ -109,7 +109,7 @@ Contributions are welcome! Please fork the repository, create a branch, and subm
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the Apache-2.0 License file for details.
 
 ---
 
